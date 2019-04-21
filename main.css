@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image: url(56885211_2327666603959984_2680367610578599936_n.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-one
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    margin-right: 10px;
+    text-decoration: none;
+    border: 2px solid white;
+    position: absolute;
+    padding: 0px 0px;
+    color: white;
+}
+
+.next
+{
+    float: right;
+    list-style: none;
+    margin-top: 2px;
+}
+
+.btn-two
+{
+    color: white;
+    text-decoration: none;
+    padding: 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    border: 2px solid white;
+}
+
+.maintext
+{
+    margin-left: 200px;
+}
+
+h1
+{
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
